@@ -72,4 +72,8 @@ bool searchNode(int nim, Node* current, Node* previous) {
 	}
 }
 
+bool deleteNode(int nim) {
+	Node* current = START;
+	Node* previous = START;
+
 	
