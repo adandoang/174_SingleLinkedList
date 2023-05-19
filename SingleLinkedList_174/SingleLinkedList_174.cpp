@@ -28,3 +28,7 @@ void addNode() {
 		}
 	}
 }
+
+Node* current = START;
+Node* prevous = START;
+
